@@ -40,4 +40,5 @@ echo "Race : " . $chien1->race . "<br>";
 echo "Âge : " . $chien1->age . "<br>";
 echo "Poids : " . $chien1->poids . "<br>";
 echo "\n";
+//flaviant3
 ?>
